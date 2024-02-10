@@ -22,4 +22,4 @@ Para a execução do programa, utilize o seguinte comando no terminal:
 - São calculadas as percentagens de atletas aptos e inaptos com base no campo 'resultado'.
 
 ## Distribuição de atletas por escalão etário (escalão = intervalo de 5 anos)
--É criada uma distribuição de atletas por intervalos de 5 anos.
+- É criada uma distribuição de atletas por intervalos de 5 anos.
