@@ -9,8 +9,6 @@ Para executar o programa:
     $ python3 tpc4.py
 ```
 
-## Funcionalidades
-
 ## Tokens Reconhecidos
 
     -SELECT: A palavra-chave SELECT.
